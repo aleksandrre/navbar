@@ -44,6 +44,7 @@ li {
     width: 35px;
     height: 4px;
     background-color: white;
+    transition: all 0.8s ease;
   }
 
   ul {
@@ -53,9 +54,9 @@ li {
     top: 80px;
     right: -100%;
     /* right: 0; */
-
     padding: 20px;
     background-color: red;
+    transition: all 0.8s ease;
   }
 
   .ul.active {
